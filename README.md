@@ -18,4 +18,8 @@ This is a demonstration showing the integration of DoDAF models built in IBM Rha
 The DoDAF models built in IBM Rhapsody are modified to add functions of sending and receiving commands through UDP protocol. The compiling environment is changed from Cygwin to Visual Studio.</br>
 ![](/image/people.bmp)</br>
 ![](/image/ground_transportation.bmp)</br>
-
+[](/image/aerial_transportation)</br>
+[](/image/railway_transportation)</br>
+</br>
+Before executing the animation, both models are activated. 
+On Unreal Engine side, IP addresses and ports of local and target are typed in. Then scenario in Unreal Engine is initialized and activated.
