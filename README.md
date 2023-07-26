@@ -22,4 +22,7 @@ The DoDAF models built in IBM Rhapsody are modified to add functions of sending 
 ![](/image/railway_transportation.bmp)</br>
 </br></br>
 Before executing the animation, both models are activated.</br>
-On Unreal Engine side, IP addresses and ports of local and target are typed in. Then scenario in Unreal Engine is initialized and activated.
+On Unreal Engine side, IP addresses and ports of local and target are typed in. Then scenario in Unreal Engine is initialized and activated.</br>
+![](/image/UE4_01.jpg)</br>
+![](/image/ UE4_02.jpg)</br>
+
