@@ -9,7 +9,7 @@ Any questions, problems or suggestions are welcome and can be sent by [email](<l
 # Links</br>
 Video is posted on [YouTube](http://www.).</br>
 </br>
-大陆地区用户可以前往[Bilibili网站](http://www.) 进行浏览。</br>
+大陆地区用户可以前往[bilibili网站](http://www.) 进行浏览。</br>
 </br>
 The demonstration about how to build DoDAF models in IBM Rhapsody can be found on [Demonstration](http://www.).</br>
 # Detailed description</br>
