@@ -27,7 +27,7 @@ On Unreal Engine side, IP addresses and ports of local and target are typed in. 
 ![](/image/UE4_02.jpg)</br>
 </br></br>
 On IBM Rhapsody side, the model is in animation environment.</br>
-### (image needed)</br>
+![](/image/Rha_04.jpg)</br>
 </br></br>
 The animation starts from the DoDAF model in IBM Rhapsody. After the Go button is clicked, all states in DoDAF model are initialized and activated. Then a command is sent to the animation in Unreal Engine model through UDP protocol. Then the corresponding characters are acting according to the command.</br>
 ![](/image/Rha_01.jpg)</br>
