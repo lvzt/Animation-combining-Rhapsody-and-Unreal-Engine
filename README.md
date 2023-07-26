@@ -12,4 +12,8 @@ Video is posted on [YouTube](http://www.).</br>
 大陆地区用户可以前往[Bilibili网站](http://www.) 进行浏览。</br>
 </br>
 The demonstration about how to build DoDAF models in IBM Rhapsody can be found on [Demonstration](http://www.).</br>
-</br>
+# Detailed description</br>
+This is a demonstration showing the integration of DoDAF models built in IBM Rhapsody with Unreal Engine models via UDP protocol.
+
+The DoDAF models built in IBM Rhapsody are modified to add functions of sending and receiving commands through UDP protocol. The compiling environment is changed from Cygwin to Visual Studio.</br>
+
