@@ -25,4 +25,17 @@ Before executing the animation, both models are activated.</br>
 On Unreal Engine side, IP addresses and ports of local and target are typed in. Then scenario in Unreal Engine is initialized and activated.</br>
 ![](/image/UE4_01.jpg)</br>
 ![](/image/UE4_02.jpg)</br>
-
+</br></br>
+On IBM Rhapsody side, the model is in animation environment.</br>
+### (image needed)</br>
+</br></br>
+The animation starts from the DoDAF model in IBM Rhapsody. After the Go button is clicked, all states in DoDAF model are initialized and activated. Then a command is sent to the animation in Unreal Engine model through UDP protocol. Then the corresponding characters are acting according to the command.</br>
+![](/image/Rha_01.jpg)</br>
+![](/image/Rha_03.jpg)</br>
+![](/image/UE4_03.jpg)</br>
+![](/image/UE4_04.jpg)</br>
+![](/image/UE4_08.jpg)</br>
+![](/image/UE4_10.jpg)</br>
+</br></br>
+# Further work</br>
+Till now, the animation is built and completed in Unreal Engine 4.23. Another animation is developing in Unreal Engine 5.</br>
