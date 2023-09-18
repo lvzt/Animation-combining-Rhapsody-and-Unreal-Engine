@@ -7,9 +7,9 @@ Demonstration of Showing Integrated Scenario Using IBM Rhapsody and Unreal Engin
 </br>
 Any questions, problems or suggestions are welcome and can be sent by [email](<lvzht@hotmail.com>) to the author – Mr. Zhentao Lu.</br>
 # Links</br>
-Video is posted on [YouTube](http://www.).</br>
+Video is posted on [YouTube](https://youtu.be/wCWwo6dum1E).</br>
 </br>
-大陆地区用户可以前往[bilibili网站](http://www.) 进行浏览。</br>
+大陆地区用户可以前往[bilibili网站](https://www.bilibili.com/video/BV1cH4y1S7YH/) 进行浏览。</br>
 </br>
 The demonstration about how to build DoDAF models in IBM Rhapsody can be found on [Demonstration](http://www.).</br>
 # Detailed description</br>
